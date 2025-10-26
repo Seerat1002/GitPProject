@@ -1,3 +1,6 @@
+#Class 12 Computer Science Project using python and MySql Database
+
+
 import qrcode
 import random
 import mysql.connector as sqltor
