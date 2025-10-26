@@ -1,3 +1,5 @@
+#A game to guess a word using random library and its inbuilt functions
+
 import random
 
 word_bank = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "island", "jungle", "kangaroo", "lemon", "mountain", "notebook", "orange", "penguin","quartz", "river", "sunshine", "tiger", "umbrella", "violet", "whale", "xylophone", "yacht", "zebra", "anchor", "bridge", "cloud", "desert", "engine", "forest", "garden", "harbor", "iceberg", "jacket", "key", "ladder", "mirror", "needle", "ocean", "pencil", "queen", "rocket", "sword", "tower", "unicorn", "valley", "window", "xenon", "yarn", "zucchini", "artist", "butterfly", "camera", "dragon", "emerald", "feather", "guitar", "helmet", "insect", "jewel", "kitten", "lantern", "magnet", "necklace", "orchid", "planet", "quiver", "rainbow", "sailboat", "teapot", "uniform", "violin", "wallet", "xylitol", "yogurt", "zeppelin", "arrow", "book", "castle", "diamond", "envelope", "fountain", "galaxy", "hammer", "igloo", "journal", "kite", "lantern", "maple", "nest", "olive", "piano", "quilt", "rose", "shield", "train", "village", "watch"]
